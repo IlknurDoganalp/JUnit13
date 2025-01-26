@@ -18,6 +18,8 @@ public class C03_TestNotasyonu {
         1- testotomasyonu.com'a gidip url'in "testotomasyonu" icerdigini test etsin
         2- wisequarter.com'a gidip url'in "wisequarter" icerdigini test etsin
         3- youtube.com'a gidip url'in "youtube" icerdigini test etsin
+        Bu class'daki 3 test method'unun hepsinin
+
 
         Bagimsiz calistirabilmek icin yaptigimiz testleri
         bagimsiz test method'larinda hazirlamak guzel olur
